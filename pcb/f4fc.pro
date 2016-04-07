@@ -1,4 +1,4 @@
-update=Wednesday, January 27, 2016 'PMt' 07:34:36 PM
+update=Tuesday, March 22, 2016 'PMt' 06:13:28 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=/Users/tannewt/kicad/libraries/ckd_sandwich
 LibName31=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/ti-gate
 LibName32=/Users/tannewt/kicad/libraries/stm32
 LibName33=/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/components/invensense
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
