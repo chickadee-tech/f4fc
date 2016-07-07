@@ -47,8 +47,8 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 7050 7000 0    197  ~ 0
-f4fc v4
+Text Notes 7400 7550 0    118  ~ 0
+f4fc v5
 $Comp
 L CKD_SANDWICH PORT_OUT1
 U 1 1 56A9690F
@@ -1251,4 +1251,6 @@ Text Notes 3450 1800 0    60   ~ 0
 Decoupling caps.
 NoConn ~ 8800 4650
 NoConn ~ 8800 4550
+Text Notes 7050 7050 0    60   ~ 0
+Copyright 2016 Chickadee Tech LLC, <add attributions here>\n\nThis work is licensed under the Creative Commons Attribution 4.0 International License.\nTo view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/\nor send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 $EndSCHEMATC
